@@ -99,7 +99,7 @@ const questions = [
                 console.log('You must pick a license for the project!');
                 return false;
             }
-        }
+        } 
     },
     // Tests (Test instructions)
     {
