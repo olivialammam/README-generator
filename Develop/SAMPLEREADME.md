@@ -31,4 +31,4 @@
 
   ## Additional Info:
   - Github: [olivialammam](https://github.com/olivialammam)
-  - Email: olivia.l7475@gmail.com  
+  - Email: olivia.l7475@gmail.com   
