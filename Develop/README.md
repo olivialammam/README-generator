@@ -1,7 +1,7 @@
-# iuedb
+# onreif
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-Apache,MIT,Mozilla-Public,None-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
 
   ## Table of Contents 
@@ -13,23 +13,23 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  ]ewiufd
+  reibf
 
   ## Installation:
-  ehw
+  ribf
 
   ## Usage:
-  ofihuoewfuiwfuuhewu
+  erfik
 
   ## License:
-  Apache,MIT,Mozilla-Public,None
+  
 
   ## Contribution:
-  if
+  reibfj
 
   ## Testing:
-  eiuf
+  jrief
 
   ## Additional Info:
-  - Github: [weiufhwe](https://github.com/weiufhwe)
-  - Email: fi 
+  - Github: [rekf ](https://github.com/rekf )
+  - Email: krjf 
