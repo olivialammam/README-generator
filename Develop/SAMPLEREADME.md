@@ -27,7 +27,7 @@
   How may others contribute
 
   ## Testing:
-  How to tes
+  How to test the README.MD
 
   ## Additional Info:
   - Github: [olivialammam](https://github.com/olivialammam)
